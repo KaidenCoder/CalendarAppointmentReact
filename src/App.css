@@ -1,0 +1,88 @@
+.App {
+  margin-top: 40px auto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.react-calendar {
+  margin: auto;
+}
+
+.react-time-picker {
+  margin: auto;
+
+}
+
+.calend-time {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  text-align: center;
+}
+
+.para {
+  text-align: center;
+}
+
+.forminput {
+  text-align: center;
+}
+
+.todo {
+  cursor: pointer;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+.allitems {
+  text-align: center;
+}
+
+.todoitem {
+  width: 500px;
+  height: 100px;
+  margin: 10px auto 10px auto;
+  box-shadow: 1px 2px 5px 0 rgba(0, 0, 0, 0.5);
+  text-align: justify;
+  padding: 10px 20px;
+}
+
+.btn-imp {
+  border: none;
+  border-radius: 5px;
+  background: red;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+
+}
+
+.btn-imp:hover {
+  color: white;
+  background: green;
+  box-shadow: 1px 2px 5px 0 rgba(0, 0, 0, 0.5);
+
+}
+
+input[type=text] {
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.btn {
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px;
+
+}
+
+.btn:hover {
+  color: white;
+  background: green;
+  box-shadow: 1px 2px 5px 0 rgba(0, 0, 0, 0.5);
+}
