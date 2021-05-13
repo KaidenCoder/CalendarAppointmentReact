@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/CalendarAppointmentReact.git/static/css/main.c8da49d7.chunk.css",
-    "main.js": "/CalendarAppointmentReact.git/static/js/main.5506bbb3.chunk.js",
-    "main.js.map": "/CalendarAppointmentReact.git/static/js/main.5506bbb3.chunk.js.map",
-    "runtime-main.js": "/CalendarAppointmentReact.git/static/js/runtime-main.577c9ce4.js",
-    "runtime-main.js.map": "/CalendarAppointmentReact.git/static/js/runtime-main.577c9ce4.js.map",
-    "static/css/2.c0fb73ae.chunk.css": "/CalendarAppointmentReact.git/static/css/2.c0fb73ae.chunk.css",
-    "static/js/2.eed1cb1a.chunk.js": "/CalendarAppointmentReact.git/static/js/2.eed1cb1a.chunk.js",
-    "static/js/2.eed1cb1a.chunk.js.map": "/CalendarAppointmentReact.git/static/js/2.eed1cb1a.chunk.js.map",
-    "index.html": "/CalendarAppointmentReact.git/index.html",
-    "static/css/2.c0fb73ae.chunk.css.map": "/CalendarAppointmentReact.git/static/css/2.c0fb73ae.chunk.css.map",
-    "static/css/main.c8da49d7.chunk.css.map": "/CalendarAppointmentReact.git/static/css/main.c8da49d7.chunk.css.map",
-    "static/js/2.eed1cb1a.chunk.js.LICENSE.txt": "/CalendarAppointmentReact.git/static/js/2.eed1cb1a.chunk.js.LICENSE.txt"
+    "main.css": "/CalendarAppointmentReact/static/css/main.c8da49d7.chunk.css",
+    "main.js": "/CalendarAppointmentReact/static/js/main.5506bbb3.chunk.js",
+    "main.js.map": "/CalendarAppointmentReact/static/js/main.5506bbb3.chunk.js.map",
+    "runtime-main.js": "/CalendarAppointmentReact/static/js/runtime-main.dbb40cca.js",
+    "runtime-main.js.map": "/CalendarAppointmentReact/static/js/runtime-main.dbb40cca.js.map",
+    "static/css/2.c0fb73ae.chunk.css": "/CalendarAppointmentReact/static/css/2.c0fb73ae.chunk.css",
+    "static/js/2.eed1cb1a.chunk.js": "/CalendarAppointmentReact/static/js/2.eed1cb1a.chunk.js",
+    "static/js/2.eed1cb1a.chunk.js.map": "/CalendarAppointmentReact/static/js/2.eed1cb1a.chunk.js.map",
+    "index.html": "/CalendarAppointmentReact/index.html",
+    "static/css/2.c0fb73ae.chunk.css.map": "/CalendarAppointmentReact/static/css/2.c0fb73ae.chunk.css.map",
+    "static/css/main.c8da49d7.chunk.css.map": "/CalendarAppointmentReact/static/css/main.c8da49d7.chunk.css.map",
+    "static/js/2.eed1cb1a.chunk.js.LICENSE.txt": "/CalendarAppointmentReact/static/js/2.eed1cb1a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.577c9ce4.js",
+    "static/js/runtime-main.dbb40cca.js",
     "static/css/2.c0fb73ae.chunk.css",
     "static/js/2.eed1cb1a.chunk.js",
     "static/css/main.c8da49d7.chunk.css",
