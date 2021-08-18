@@ -5,23 +5,22 @@ const Todo = ({ list, handleToggle }) => {
     const handleClick = (e) => {
         e.preventDefault()
         handleToggle(e.currentTarget.id)
-        console.log(list.time.props.children)
     }
 
     return (
         <div className="todoitem">
             <div
                 id={list.id}
-                key={list.id + list.task}
+                key={list.id + list.title}
                 value={list.id}
                 onClick={handleClick}
                 className={list.complete ? "todo strike" : "todo"}>
-                <p>Title: {list.task}</p>
-
-                <p>Date: {list.time}</p>
-                <p>Time: {list.rtime} hrs</p>
-            </div>
-        </div>
+                <p><span className="meeting-item">Title:</span> {list.title}</p>
+                <p><span className="meeting-item">Description:</span> {list.desc}</p>
+                <p><span className="meeting-item">Date:</span> {list.date}</p>
+                <p><span className="meeting-item">Time:</span> {list.rtime} hrs</p>
+            </div >
+        </div >
     )
 }
 

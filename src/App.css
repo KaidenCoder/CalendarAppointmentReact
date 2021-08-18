@@ -43,7 +43,7 @@
 
 .todoitem {
   width: 500px;
-  height: 100px;
+  height: 10em;
   margin: 10px auto 10px auto;
   box-shadow: 1px 2px 5px 0 rgba(0, 0, 0, 0.5);
   text-align: justify;
@@ -85,4 +85,9 @@ input[type=text] {
   color: white;
   background: green;
   box-shadow: 1px 2px 5px 0 rgba(0, 0, 0, 0.5);
+}
+
+.meeting-item {
+  opacity: 0.5;
+  font-size: 0.9em;
 }
